@@ -23,7 +23,7 @@ I spend my time messing around with servers, low-level programming, and modern w
 ### `$ cat /etc/stack.conf`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,nuxtjs,react,vite,nodejs,rust,c,cpp,cs,python,bash,postgres,mysql,mongodb,redis,linux,docker,cloudflare,git,github,dart,flutter&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,nuxtjs,react,vite,nodejs,rust,c,cpp,cs,python,bash,postgres,mysql,mongodb,redis,linux,docker,cloudflare,git,github,dart,flutter,lua,blender&perline=14&theme=dark" />
 </p>
 
 ![Dear ImGui](https://img.shields.io/badge/Dear_ImGui-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)
