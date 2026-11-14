@@ -3,7 +3,7 @@
 <img src="https://images.weserv.nl/?url=github.com/nslkp.png&w=140&h=140&fit=cover&mask=circle" width="110" height="110" alt="nslkp avatar" />
 
 # `nslkp`
-**Systems, Networks & Full-Stack Dev**
+**Systems, Networks, DevOps & Full-Stack Dev**
 
 [![GitHub](https://img.shields.io/badge/GitHub-nslkp-181717?style=flat-square&logo=github)](https://github.com/nslkp)
 
